@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -254,8 +255,10 @@ td {
 
 </body>
 </html>
-
+~~~
 # OUTPUT:
+![Screenshot 2024-12-06 104258](https://github.com/user-attachments/assets/410eeacb-0a3c-4d36-9ace-d4a28b51bc8f)
+
 ![Screenshot 2024-11-22 100423](https://github.com/user-attachments/assets/ea4a2910-ee5e-44fd-9b93-df7a3e2f4c92)
 
 # RESULT:
